@@ -22,7 +22,7 @@
 **`genkitx-aws-bedrock`** is a community plugin for using AWS Bedrock APIs with
 [Genkit](https://github.com/firebase/genkit). Built by [**Xavier Portilla Edo**](https://github.com/xavidop).
 
-This Genkit plugin allows to use AWS Bedrock through their official APIs.
+This Genkit plugin allows the use of AWS Bedrock through their official APIs.
 
 ## Installation
 
